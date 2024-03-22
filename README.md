@@ -79,7 +79,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 ### Built With
-
+* ![Bootstrap][Bootstrap.com]
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -210,7 +210,7 @@ Project Link: [https://github.com/EnmanuelS06/Pokedex_Mobile](https://github.com
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
 
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[Bootstrap.com]: https://img.shields.io/badge/Flutter-b?style=for-the-badge&logo=flutter&logoColor=wihte&labelColor=blue&color=blue
+[Bootstrap-url]: https://flutter.dev/
+[JQuery.com]: https://img.shields.io/badge/Dart-b?style=for-the-badge&logo=dart&logoColor=blue&labelColor=white&color=white
+[JQuery-url]: https://dart.dev/
